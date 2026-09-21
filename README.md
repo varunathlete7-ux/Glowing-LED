@@ -28,10 +28,11 @@ A simple LED circuit constructed on a breadboard using an LED, resistor, connect
 6\.    Switch on the power supply.
 
 7\.    Check that the LED glows properly.
+![](IMG-20260921-WA0048.jpg)
 
 ![](IMG-20260921-WA0047.jpg)
 
-![](
+
 
 # **Notes**
 
